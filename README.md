@@ -1,16 +1,14 @@
-## Hi there 👋
+# ? Привет, я Юрий!
 
-<!--
-**Pacmaaan98/Pacmaaan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ?‍? О себе
+Junior Backend Developer
+Специализируюсь на Python и Java.
 
-Here are some ideas to get you started:
+## ? Технический стек
+- Python, Java
+- Data Science
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ? Контакты
+- Email: lol246511@gmail.com
+- Telegram: @Pacmaaan98
