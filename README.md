@@ -1,14 +1,14 @@
-# ? Привет, я Юрий!
+#  Привет, я Юрий!
 
-## ?‍? О себе
+## О себе
 Junior Backend Developer
 Специализируюсь на Python и Java.
 
-## ? Технический стек
+##  Технический стек
 - Python, Java
 - Data Science
 - SQL
 
-## ? Контакты
+##  Контакты
 - Email: lol246511@gmail.com
 - Telegram: @Pacmaaan98
